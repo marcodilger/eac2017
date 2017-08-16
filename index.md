@@ -1,41 +1,5 @@
-## Downloads for the EAC 2017 Poster
+### Downloads for the EAC 2017 Poster
 
-# This Poster
-# Publication 1 (Characterization of the air-liquid-exposure system & wood smoke toxicity)
-# Publication 2 (Toxicity of wood smoke particles after submerged exposure)
-
-
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcodilger/eac2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [This Poster](http://dl_link)
+- [Publication 1](http://dl_link) (Characterization of the air-liquid-exposure system & wood smoke toxicity)
+- [Publication 2](http://dl_link) (Toxicity of wood smoke particles after submerged exposure)

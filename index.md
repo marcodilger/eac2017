@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Downloads for the EAC 2017 Poster
 
-You can use the [editor on GitHub](https://github.com/marcodilger/eac2017/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# This Poster
+# Publication 1 (Characterization of the air-liquid-exposure system & wood smoke toxicity)
+# Publication 2 (Toxicity of wood smoke particles after submerged exposure)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
 
 ### Markdown
 
